@@ -1,9 +1,12 @@
+#### Get model optimized for RKNN
+
+关于如何导出适配RK3588的yolo11模型，请参考[ultralytics-main/RK3588的yolo11模型转换(pt2onnx).md at main · rokkieluo/ultralytics-main](https://github.com/rokkieluo/ultralytics-main/blob/main/RK3588的yolo11模型转换(pt2onnx).md)，该优化只在导出模型时生效，训练代码按照原仓库的指引即可。
+
 <div align="center">
   <p>
     <a href="https://www.ultralytics.com/blog/ultralytics-yolo11-has-arrived-redefine-whats-possible-in-ai" target="_blank">
       <img width="100%" src="https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/banner-yolov8.png" alt="Ultralytics YOLO banner"></a>
   </p>
-
 [中文](https://docs.ultralytics.com/zh) | [한국어](https://docs.ultralytics.com/ko) | [日本語](https://docs.ultralytics.com/ja) | [Русский](https://docs.ultralytics.com/ru) | [Deutsch](https://docs.ultralytics.com/de) | [Français](https://docs.ultralytics.com/fr) | [Español](https://docs.ultralytics.com/es) | [Português](https://docs.ultralytics.com/pt) | [Türkçe](https://docs.ultralytics.com/tr) | [Tiếng Việt](https://docs.ultralytics.com/vi) | [العربية](https://docs.ultralytics.com/ar) <br>
 
 <div>
