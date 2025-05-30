@@ -1,6 +1,6 @@
 # RK3588的yolo11模型转换(pt->onnx)
 
-本教程适用于6个输出头的onnx模型，如需9个输出头，请参考rk官方的示例：[airockchip/ultralytics_yolo11](https://github.com/airockchip/ultralytics_yolo11)
+本教程适用于6个输出头的onnx目标检测模型，如需9个输出头，请参考rk官方的示例：[airockchip/ultralytics_yolo11](https://github.com/airockchip/ultralytics_yolo11)
 
 第一步：获取本仓库代码
 
